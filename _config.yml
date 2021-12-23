@@ -7,8 +7,10 @@ headline: Regate, Velocidad, Inteligencia y Definición
 description: > # this means to ignore newlines until "baseurl:"
   Delantero
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://footballcloud.net/" # the base hostname & protocol for your site
-copyright: 2019 footballcloud Company, Inc. All Rights Reserved.
+copyright: 2021 footballcloud Company, Inc. All Rights Reserved.
+
+url: footballcloud.github.io
+baseurl: /pedrogarcia
 
 # Build settings
 markdown: kramdown
