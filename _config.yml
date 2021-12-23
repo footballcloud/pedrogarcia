@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 copyright: 2021 footballcloud Company, Inc. All Rights Reserved.
 
 url: footballcloud.github.io
-baseurl: /pedrogarcia
+#baseurl: /pedrogarcia
 
 # Build settings
 markdown: kramdown
